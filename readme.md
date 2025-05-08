@@ -1,3 +1,7 @@
+Antes de meterse con Docker, primero ejecutar `npm i` para instalar las dependencias de node.
+
+---
+
 Ejecutar el comando para crear el volumen
 
 ```bash
